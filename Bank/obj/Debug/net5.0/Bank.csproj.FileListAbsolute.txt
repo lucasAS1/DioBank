@@ -1,0 +1,16 @@
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\bin\Debug\net5.0\Bank.exe
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\bin\Debug\net5.0\Bank.deps.json
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\bin\Debug\net5.0\Bank.dll
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\bin\Debug\net5.0\ref\Bank.dll
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\bin\Debug\net5.0\Bank.pdb
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\obj\Debug\net5.0\Bank.csprojAssemblyReference.cache
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\obj\Debug\net5.0\Bank.dll
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\obj\Debug\net5.0\ref\Bank.dll
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\obj\Debug\net5.0\Bank.pdb
+D:\Estudos\.Net\Dio\Localiza\Criando_AplicacaoBancaria\bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
