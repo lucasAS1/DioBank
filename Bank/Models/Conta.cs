@@ -8,6 +8,13 @@ namespace Bank.Models{
         private double Credito{get;set;}
         private string Nome{get;set;}
 
+        /// <summary>
+        /// Metodo construtor da classe Conta
+        /// </summary>
+        /// <param name="tipo">1 - Pessoa Física, 2 - Pessoa Juridica</param>
+        /// <param name="saldo">Saldo inicial da conta</param>
+        /// <param name="credito">Crédito limite inicial da conta</param>
+        /// <param name="nome">Nome do dono da conta</param>
         public Conta(TipoConta tipo, double saldo,double credito,string nome){
             this.TipoConta=tipo;
             this.Saldo=saldo;
@@ -15,6 +22,11 @@ namespace Bank.Models{
             this.Nome=nome;
         }
 
+        /// <summary>
+        /// Metodo de saque
+        /// </summary>
+        /// <param name="valorSaque">Valor a ser sacado da conta</param>
+        /// <returns></returns>
         public bool Sacar(double valorSaque){
             if(this.Saldo - valorSaque < (this.Credito*-1))
                 {
@@ -29,12 +41,21 @@ namespace Bank.Models{
                 }
         }
 
+        /// <summary>
+        /// Metodo para depósito na conta
+        /// </summary>
+        /// <param name="valorDeposito">Valor a ser depositado</param>
         public void Depositar(double valorDeposito){
-            this.Credito+=valorDeposito;
+            this.Saldo+=valorDeposito;
 
             Console.WriteLine($"Saldo da conta de {this.Nome} após o deposito é de {this.Saldo}");
         }
 
+        /// <summary>
+        /// Metodo de transferencia de uma conta para outra
+        /// </summary>
+        /// <param name="valorTransferencia">Valor a ser transferido</param>
+        /// <param name="contaDestino">Objeto da conta que recebera a transferencia</param>
         public void Transferir(double valorTransferencia,Conta contaDestino){
             if(this.Sacar(valorTransferencia))
             {
@@ -44,8 +65,12 @@ namespace Bank.Models{
             }
         }
 
+        /// <summary>
+        /// Metodo utlizado para log da conta
+        /// </summary>
+        /// <returns>Retorna uma cadeia de caracteres que descrevem a conta</returns>
         public override string ToString(){
-            return $"Conta 01: \n Nome:{this.Nome} \n Saldo:{this.Saldo} \n Credito:{this.Credito}";
+            return $"Conta: \n Nome:{this.Nome} \n Saldo:{this.Saldo} \n Credito:{this.Credito}";
         }
     }
 

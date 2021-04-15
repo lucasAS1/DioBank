@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\.Net\\Dio\\Localiza\\Criando_AplicacaoBancaria\\bank\\Bank.csproj": {}
+    "D:\\Estudos\\.Net\\Dio\\Localiza\\Criando_AplicacaoBancaria\\Bank\\Bank.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\.Net\\Dio\\Localiza\\Criando_AplicacaoBancaria\\bank\\Bank.csproj": {
+    "D:\\Estudos\\.Net\\Dio\\Localiza\\Criando_AplicacaoBancaria\\Bank\\Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\.Net\\Dio\\Localiza\\Criando_AplicacaoBancaria\\bank\\Bank.csproj",
+        "projectUniqueName": "D:\\Estudos\\.Net\\Dio\\Localiza\\Criando_AplicacaoBancaria\\Bank\\Bank.csproj",
         "projectName": "Bank",
-        "projectPath": "D:\\Estudos\\.Net\\Dio\\Localiza\\Criando_AplicacaoBancaria\\bank\\Bank.csproj",
+        "projectPath": "D:\\Estudos\\.Net\\Dio\\Localiza\\Criando_AplicacaoBancaria\\Bank\\Bank.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\.Net\\Dio\\Localiza\\Criando_AplicacaoBancaria\\bank\\obj\\",
+        "outputPath": "D:\\Estudos\\.Net\\Dio\\Localiza\\Criando_AplicacaoBancaria\\Bank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
